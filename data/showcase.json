@@ -1,4 +1,9 @@
 [
+    {
+    "title": "Local SEO Station",
+    "link": "https://localseostation.com/",
+    "image": "localseostation"
+  },
   {
     "image": "/images/showcase/netlify.png",
     "title": "Netlify Edge Functions",
